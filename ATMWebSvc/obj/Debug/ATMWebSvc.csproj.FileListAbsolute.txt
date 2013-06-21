@@ -1,0 +1,13 @@
+c:\users\psycho\documents\visual studio 2010\Projects\ATMWebSvc\ATMWebSvc\bin\ATMWebSvc.dll
+c:\users\psycho\documents\visual studio 2010\Projects\ATMWebSvc\ATMWebSvc\bin\ATMWebSvc.pdb
+c:\users\psycho\documents\visual studio 2010\Projects\ATMWebSvc\ATMWebSvc\obj\Debug\ATMWebSvc.dll
+c:\users\psycho\documents\visual studio 2010\Projects\ATMWebSvc\ATMWebSvc\obj\Debug\ATMWebSvc.pdb
+C:\Users\Psycho\Documents\Visual Studio 2010\Projects\ATMWebSvc\ATMWebSvc - Server\ATMWebSvc\bin\ATMWebSvc.dll
+C:\Users\Psycho\Documents\Visual Studio 2010\Projects\ATMWebSvc\ATMWebSvc - Server\ATMWebSvc\bin\ATMWebSvc.pdb
+C:\Users\Psycho\Documents\Visual Studio 2010\Projects\ATMWebSvc\ATMWebSvc - Server\ATMWebSvc\obj\Debug\ATMWebSvc.dll
+C:\Users\Psycho\Documents\Visual Studio 2010\Projects\ATMWebSvc\ATMWebSvc - Server\ATMWebSvc\obj\Debug\ATMWebSvc.pdb
+C:\Users\Rob\Documents\Visual Studio 2012\Projects\ATMWebSvc - Server\ATMWebSvc\bin\ATMWebSvc.dll
+C:\Users\Rob\Documents\Visual Studio 2012\Projects\ATMWebSvc - Server\ATMWebSvc\bin\ATMWebSvc.pdb
+C:\Users\Rob\Documents\Visual Studio 2012\Projects\ATMWebSvc - Server\ATMWebSvc\obj\Debug\ATMWebSvc.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\Visual Studio 2012\Projects\ATMWebSvc - Server\ATMWebSvc\obj\Debug\ATMWebSvc.dll
+C:\Users\Rob\Documents\Visual Studio 2012\Projects\ATMWebSvc - Server\ATMWebSvc\obj\Debug\ATMWebSvc.pdb
